@@ -23,9 +23,9 @@
 
 - 💞️ I’m looking to collaborate on ...
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamsrikants)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-982-blue)
+[![](https://visitcount.itsvg.in/api?id=iamsrikants&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<img alt="Stars" src="https://img.shields.io/github/stars/iamsrikants/iamsrikants?style=flat-square&labelColor=343b41"/><img alt="Forks" src="https://img.shields.io/github/forks/iamsrikants/iamsrikants?style=flat-square&labelColor=343b41"/><img src="https://github.com/iamsrikants/iamsrikants/workflows/README%20build/badge.svg"/> 
+<img alt="Stars" src="https://img.shields.io/github/stars/iamsrikants/iamsrikants?style=flat-square&labelColor=343b41"/><img alt="Forks" src="https://img.shields.io/github/forks/iamsrikants/iamsrikants?style=flat-square&labelColor=343b41"/>
 
 - 🌱 I’m currently coding ...
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
