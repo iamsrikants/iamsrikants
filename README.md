@@ -1,7 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>Hello there 👋🏻,  I'm Srikant Singh! </h3>
 <p>
-  <em>Freelance at <a href="https://www.works-hub.com/">Works Hub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<!--   <em>Freelance at <a href="https://www.works-hub.com/">Works Hub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br> -->
+<em>Freelance <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
     
   - 💼 any freelance work? do reach, [email](mailto:iamsrikants@gmail.com) :)
   </em>
