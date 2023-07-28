@@ -8,7 +8,7 @@
 </p>
 <p>
   <em>
-      Technical Architect at <a href="https://collabera.com/">Collabera Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+<!--       Technical Architect at <a href="https://collabera.com/">Collabera Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br> -->
       Senior Software Enginner at <a href="https://www.perfectvips.com/">PerfectVIPS Techno Solution</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
       Senior Software Enginner at <a href="https://www.u2opiamobile.com/">U2opia Mobile</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
       Software Enginner at <a href="http://www.ionidea.com/">Ionidea</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
