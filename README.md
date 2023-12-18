@@ -45,22 +45,21 @@ import (
 	"https://stackoverflow.com/users/22067410/srikant-singh"
 	"https://www.linkedin.com/in/mrsrikantsingh"
 	"https://twitter.com/mrsrikantsingh"
-	"github.com/officedepot/od-go/v2/jlog"
 )
 
 const {
-	Language: ["C", "C++", "QT", "Go"],
+	Language: ["Go", "C", "C++", "ReactJS", "QT"],
 	tools: ["GitLab/GitHub", "Jenkins", "Git", "JIRA", "GDB", "Gprof", "Gcov"],
 	architecture: ["microservices", "design pattern", "Serverless Architecture", "Singlepage applications"],
 	technologies: {
             backEnd: {
-                js: ["Go", "NodeJS", "Express"],
+                js: ["Go"],
             },
             FrondEnd: {
                 js: ["ReactJS"]
             }        
         },
-	cloud: ["AWS", "Azure", "Docker🐳", "Kubernetes"],
+	cloud: ["AWS", "Docker", "Kubernetes"],
         databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"]
 }
 
@@ -73,7 +72,7 @@ var {
 func srikant_singh() {
 	pronouns: "He" | "Him",
 	askMeAbout: ["Backend dev", "tech", "app dev", "CLoud Services"],
-	challenge: "I am doing the #100DaysOfCode challenge focused on Go, Node and ReactJS",
+	challenge: "I am doing the #100DaysOfCode challenge focused on Go and ReactJS",
         funFact: "There are two ways to write error-free programs; only the third one works",
 	
 	const srikant := "Implement all",
