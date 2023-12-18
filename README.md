@@ -43,6 +43,7 @@ package srikant_singh
 import (
 	"https://github.com/iamsrikants"
 	"https://stackoverflow.com/users/22067410/srikant-singh"
+	"https://medium.com/@iamsrikants"
 	"https://www.linkedin.com/in/mrsrikantsingh"
 	"https://twitter.com/mrsrikantsingh"
 )
